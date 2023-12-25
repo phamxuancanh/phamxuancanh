@@ -3,11 +3,17 @@
 🚀  About me 
 
 I am Pham Xuan Canh. 
+
 🔭 I’m currently working on
+
 🌱 I’m currently learning at IUH
+
 😄 Pronouns: peitxe
+
 ⚡ Fun fact: My first line of code was not "Hello World!"
+
 Have a good day.
+
 Thanks for visiting my profile, see you next time!
 
 <!--
