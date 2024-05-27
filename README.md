@@ -16,6 +16,12 @@ Have a good day.
 
 Thanks for visiting my profile, see you next time!
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=phamxuancanh&layout=compact&theme=dark)
+
+https://github-readme-stats.vercel.app/api?username=phamxuancanh&show_icons=true&theme=dark)
+
+
+
 <!--
 **phamxuancanh/phamxuancanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
