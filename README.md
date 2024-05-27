@@ -16,9 +16,9 @@ Have a good day.
 
 Thanks for visiting my profile, see you next time!
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=phamxuancanh&layout=compact&theme=dark)
+https://github-readme-stats.vercel.app/api/top-langs/?username=phamxuancanh&layout=compact&theme=dark
 
-https://github-readme-stats.vercel.app/api?username=phamxuancanh&show_icons=true&theme=dark)
+https://github-readme-stats.vercel.app/api?username=phamxuancanh&show_icons=true&theme=dark
 
 
 
