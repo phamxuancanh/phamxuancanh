@@ -4,7 +4,7 @@
 
 I am Pham Xuan Canh. 
 
-🔭 I’m currently working on
+🔭 I’m currently working on Sorimachi VN
 
 🌱 I’m currently learning at IUH
 
