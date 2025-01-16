@@ -17,8 +17,8 @@ Have a good day.
 Thanks for visiting my profile, see you next time!
 ### 🐍 Snake eating my contributions: 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/laurentiucozma12/laurentiucozma12/b6cefefa997f63e8b523dc66bc9a66f70fa22905/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/phamxuancanh/snk/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/phamxuancanh/snk/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamxuancanh&layout=compact&theme=dark)
 
